@@ -1,5 +1,5 @@
 # E-Commerce-Case-Study
-This project was analyzed an visualized with Power BI
+This project was analyzed and visualized with Power BI
 # An overview of the project phases 
 ## Data importing: 
 First, I checked my data type it’s a csv format I imported the data to the power Bi,
